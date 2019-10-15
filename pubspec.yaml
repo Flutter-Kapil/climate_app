@@ -18,3 +18,13 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: SpartanMB-Bold
+      fonts:
+        - asset: fonts/SpartanMB-Bold.otf
+    - family: SpartanMB
+      fonts:
+        - asset: fonts/SpartanMB-Regular.otf
+
